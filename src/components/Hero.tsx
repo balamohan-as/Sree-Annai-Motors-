@@ -19,7 +19,7 @@ const Hero = () => {
             </p>
           </div>
           <div className="md:w-1/2">
-            <div className="rounded-lg overflow-hidden shadow-xl animate-slide-up h-[600px]">
+            <div className="rounded-lg overflow-hidden shadow-xl animate-slide-up">
               <img 
                 src="/lovable-uploads/hero.png" 
                 alt="Mechanic working on car engine" 
